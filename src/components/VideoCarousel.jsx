@@ -127,7 +127,7 @@ const VideoCarousel = () => {
       </div>
 
       {/* Navigation Arrows */}
-      <button
+      {/* <button
         className="absolute left-4 top-1/2 -translate-y-1/2 z-20 px-1 sm:px-3 py-0 sm:py-2 text-white bg-black/50 rounded-full hover:bg-black/70 transition-colors"
         onClick={() => {
           moveToPrev();
@@ -144,7 +144,7 @@ const VideoCarousel = () => {
         }}
       >
         →
-      </button>
+      </button> */}
 
       <motion.div
         initial={{ opacity: 0, x: 0 }}

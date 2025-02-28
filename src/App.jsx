@@ -9,7 +9,8 @@ import Videos from './components/Videos';
 function App() {
 
   return (
-    <div className="min-h-screen bg-gradient-to-b from-gray-50 to-gray-100 dark:from-gray-900 dark:to-black">
+    // <div className="min-h-screen bg-gradient-to-b from-gray-50 to-gray-100 dark:from-gray-900 dark:to-black">
+    <div className="bg-black">
       <VideoCarousel />
       
       <OurServices />
