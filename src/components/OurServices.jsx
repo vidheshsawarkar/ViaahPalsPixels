@@ -3,7 +3,7 @@ import React from 'react'
 const OurServices = () => {
   return (
     <div className="pt-14 sm:pt-20 pb-6 sm:pb-20 justify-items-center">
-        <div className="text-2xl font-semi-bold font-kanit pb-1 mb-10 border-b-4 border-indigo-500">
+        <div className="text-2xl font-semi-bold font-kanit text-white pb-1 mb-10 border-b-4 border-indigo-500">
             <h1>Our Services</h1>
         </div>
         {/* <div className="flex justify-around bg-white text-black tracking-wider py-2 px-4 sm:px-10 md:px-20 lg:px-30 xl:px-60 w-full overflow-x-auto"> */}
