@@ -1,12 +1,11 @@
 import React from 'react'
 import { motion } from 'framer-motion';
 
-
 const videos = [
     "https://www.youtube.com/embed/tlpBW7CcdOo?si=P5ZU26UitnErS-lW",
     "https://www.youtube.com/embed/StMyd9UppYY?si=tf6zf1WAK5HyUHk8",
     "https://www.youtube.com/embed/efeQSWpA6Z8?si=zJ1MsTNrvHw5gThC",
-    "https://www.youtube.com/embed/Etfxrj-69nY?si=mROQGVc3pHEZl6Dy",
+    "https://www.youtube.com/embed/VWXbFjsFGEo?si=fybvf5J9D8ROSGru",
     "https://www.youtube.com/embed/csMFPbrYwas?si=rZGoEGqLv0GR1af1",
     "https://www.youtube.com/embed/qrcWhbOXWhM?si=DdLKVFZDk4uQAPkt",
   ];
